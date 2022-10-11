@@ -1,6 +1,6 @@
 # ***Titanic Kaggle Contest***
 
-*Fourth python workshop for Artificial Intelligence class focused on an existing kaggle contest*
+*Python workshop for Artificial Intelligence class focused on an existing kaggle contest*
 
 ## ***Built With*** 🛠️
 
